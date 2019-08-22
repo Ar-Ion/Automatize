@@ -1,0 +1,2 @@
+# AutomatonManager-
+Java library to 
